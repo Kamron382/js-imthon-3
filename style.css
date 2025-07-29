@@ -1,0 +1,50 @@
+img{
+    width: 75%;
+   
+}
+.div{
+    width: 400px;
+    height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    text-align: center;
+    border: 1px solid black;
+}
+.yahya{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+button{
+    background-color: green;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 30px;
+}
+h4{
+    color: green;
+}
+.div div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 300px;
+}
+.jafar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 400px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.gif{
+    display: none;
+}
